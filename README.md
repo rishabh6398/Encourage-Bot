@@ -1,5 +1,3 @@
----
-
 # Encourage Bot 🤖 - Your Personal Motivation Assistant
 
 **Encourage Bot** is a simple yet powerful Discord bot built using Python, designed to uplift and motivate users with daily encouragement. The bot is hosted on Replit and offers several features, including inspiring quotes, personalized motivation, and easy management of your own motivational messages. Whether you're looking for a quick boost or want to share positivity, Encourage Bot is here for you!
@@ -91,5 +89,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Creator:** Hrishabh Dubey
 - **Email:** rishabh6398@gmail.com
 - **LinkedIn:** [Hrishabh Dubey](https://www.linkedin.com/in/hrishabhdubey/)
-
----
