@@ -6,7 +6,6 @@ from keep_alive import keep_alive
 import requests
 from replit import db
 
-
 # Enable intents for the bot
 intents = discord.Intents.default()
 intents.messages = True  # Allow the bot to receive message events
